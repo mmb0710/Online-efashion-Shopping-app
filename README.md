@@ -71,8 +71,8 @@ Real-world user experience
 Feel free to fork this repo, raise issues, and submit PRs!
 
 ## 📬 Contact
-Ayushi Patel
-📧 patelaayushi1003@gmail.com
+Meet Maheta
+Email:mmb0702004@gmail.com
 
 
 
